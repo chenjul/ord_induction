@@ -1,7 +1,7 @@
 Custom code associated with "Bacterial peptide deformylase inhibitors induce prophages in competitors", written by Julie Chen.<br>
 To cite the code, please use the most recent copy of the manuscript: TBA
 
-Related kChip image analysis code: https://github.com/megantse/abxcombos-droparray 
+Related kChip image analysis code: https://github.com/megantse/kchip  
 <hr>
 
 **Included:**
